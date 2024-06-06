@@ -6,10 +6,16 @@
 git init
 
 ``` 
+
+``` 
 git add file_name
 
 ``` 
+
+``` 
 git add .
+
+``` 
 
 ``` 
 git init
