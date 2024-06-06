@@ -2,17 +2,12 @@
 
 # first initializing the git
 
-'''
+``` 
 git init
-'''
-'''
-git add file_name
 
+git add file_name
 
 git add .
 
-'''
-
-```
 git init
 ```
