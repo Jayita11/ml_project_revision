@@ -3,10 +3,9 @@
 # first initializing the git
 
 '''
-
 git init
-
-
+'''
+'''
 git add file_name
 
 
